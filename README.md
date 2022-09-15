@@ -1,4 +1,4 @@
-# Bleaching-in-MPAs
+# Bleaching-in-MPAs (https://bmcecolevol.biomedcentral.com/articles/10.1186/s12862-022-02011-y)
 Code runs in the following order. Skip to step 6 if looking to just re-run analyses.
 1.	RC_ERG_DHW combines DHW data from CoRTAD version 6 with the bleaching and ecoregion (from Veron et al 2015) data
 Files: RC_ERG.csv, Reef check data from Reefcheck.org, ecoregions available from Veron et al, DHW data available from LINK 
