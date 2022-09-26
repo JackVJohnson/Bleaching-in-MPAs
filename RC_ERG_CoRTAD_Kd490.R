@@ -1,5 +1,9 @@
 rm(list =ls())
 
+################################################################################################################
+# code modified from Sully and van Woesik 2020 paper https://onlinelibrary.wiley.com/doi/full/10.1111/gcb.14948 
+# https://github.com/InstituteForGlobalEcology/Turbid-reefs-moderate-coral-bleaching-under-climate-related-temperature-stress/blob/master/01_Get_Turbidity_Data_final.Rmd
+################################################################################################################
 
 #load library
 library(ncdf4)
